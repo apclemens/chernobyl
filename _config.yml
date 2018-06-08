@@ -1,0 +1,9 @@
+title: Random
+    
+sass:
+    style: compact
+
+collections:
+    articles:
+        output: true
+        permalink: /:title

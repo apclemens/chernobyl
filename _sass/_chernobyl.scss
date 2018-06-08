@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins|Roboto');
+
+.slide {
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    background-size: cover;
+    h1 {
+        font-family: 'Roboto', sans-serif;
+        position: relative;
+    }
+    div {
+        position: relative;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        background-color: rgba(0,0,0,.5);
+        padding: 15px;
+    }
+    .full_image {
+        width: 100%;
+    }
+}
+
+.long {
+    height: auto;
+}
